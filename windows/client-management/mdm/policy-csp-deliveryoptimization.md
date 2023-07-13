@@ -829,7 +829,7 @@ The default value 0 (zero) means that Delivery Optimization dynamically adjusts 
 
 <!-- DOMaxCacheAge-Description-Begin -->
 <!-- Description-Source-DDF-Forced -->
-Specifies the maximum time in seconds that each file is held in the Delivery Optimization cache after downloading successfully. The value 0 (zero) means unlimited; Delivery Optimization will hold the files in the cache longer and make the files available for uploads to other devices, as long as the cache size hasn't exceeded. The value 0 is new in Windows 10, version 1607. The default value is 604800 seconds (7 days).
+Specifies the maximum time in seconds that each file is held in the Delivery Optimization cache after downloading successfully. The value 0 (zero) means unlimited; Delivery Optimization will hold the files in the cache longer and make the files available for uploads to other devices, as long as the cache size hasn't exceeded. The value 0 is new in Windows 10, version 1607. The default value is 259200 seconds (3 days).
 <!-- DOMaxCacheAge-Description-End -->
 
 <!-- DOMaxCacheAge-Editable-Begin -->
